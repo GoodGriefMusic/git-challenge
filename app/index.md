@@ -6,11 +6,11 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ## Picks of the Month
 
-### [Arctic Monkeys](/writer/arctic_monkeys.md) | arctic.monkeys@onlyrics.magazine
+### [Arctic Monkeys](/writer/arctic_monkeys.md) | 
 
 [Do I Wanna Know?](song/feb/do_i_wanna_know.md)
 
-### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
+### [Jhon Lennon](writer/john_lennon.md) | 
 
 [Imagine](song/jan/vanilla-panna-cotta.md)
 [Here comes the sun](song/feb/Here_comes_the_sun.md)
