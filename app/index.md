@@ -8,15 +8,18 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Arctic Monkeys](/writer/arctic_monkeys.md) | arctic.monkeys@onlyrics.magazine
 
-[Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
+[Do I Wanna Know?](song/feb/do_i_wanna_know.md)
 
 ### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
 
 [Imagine](song/jan/vanilla-panna-cotta.md)
+[Here comes the sun](song/feb/Here_comes_the_sun.md)
 
 ### [Queen](writer/queen.md) | queen@onlyrics.magazine
 
 [We Are The Champions](song/jan/we_are_the_champions.md)
+
+[Killer Queen](song/feb/killer_queen.md)
 
 ### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
 
