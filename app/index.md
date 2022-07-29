@@ -17,3 +17,21 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 ### [The Killers](writer/the_killers) | 
 
 [Mr. Brightside](song/jan/mr_brightside.md)
+
+---------------------------------------------------------------------------------------
+
+				Last Months Favorites
+
+### [Arctic Monkeys](/writer/arctic_monkeys.md) | 
+
+[Do I Wanna Know?](song/feb/do_i_wanna_know.md)
+
+### [Queen](writer/queen.md) |
+
+[We Are The Champions](song/jan/we_are_the_champions.md)
+
+### [The Killers](writer/the_killers) | 
+
+[Mr. Brightside](song/jan/mr_brightside.md)
+
+
