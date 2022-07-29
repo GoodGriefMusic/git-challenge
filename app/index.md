@@ -12,12 +12,9 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Jhon Lennon](writer/john_lennon.md) | 
 
-[Imagine](song/jan/vanilla-panna-cotta.md)
 [Here comes the sun](song/feb/Here_comes_the_sun.md)
 
 ### [Queen](writer/queen.md) | 
-
-[We Are The Champions](song/jan/we_are_the_champions.md)
 
 [Killer Queen](song/feb/killer_queen.md)
 
@@ -36,8 +33,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 ### [Queen](writer/queen.md) |
 
 [We Are The Champions](song/jan/we_are_the_champions.md)
-
-[Killer Queen](song/feb/killer_queen.md)
 
 ### [The Killers](writer/the_killers) | 
 
