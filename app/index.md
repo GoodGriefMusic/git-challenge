@@ -12,8 +12,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Queen](writer/queen.md) | 
 
-
-
 [Killer Queen](song/feb/killer_queen.md)
 
 ### [The Killers](writer/the_killers) | 
