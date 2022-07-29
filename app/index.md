@@ -10,10 +10,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Do I Wanna Know?](song/feb/do_i_wanna_know.md)
 
-### [Jhon Lennon](writer/john_lennon.md) | 
-
-[Here comes the sun](song/feb/Here_comes_the_sun.md)
-
 ### [Queen](writer/queen.md) | 
 
 [Killer Queen](song/feb/killer_queen.md)
